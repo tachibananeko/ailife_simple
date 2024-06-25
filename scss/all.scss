@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'ethnocentric';
+    src: url('../images/ethnocentric.woff') format("woff"),
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import "share_variable";
+@import "mixin";
+@import "reset";
+
+@import "share_tool"; //該站專屬共用元件
+
+
+
+// layout
+@import "home"; //主頁
+
+
